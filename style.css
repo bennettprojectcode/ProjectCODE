@@ -12,6 +12,7 @@ height: auto;}
 #button {display: none; 
 }
 
+/* you may not need the above, check again later */
 
 #tour {width: 10%;
 height: auto;
@@ -32,6 +33,8 @@ font-size: 3vw;
 
 #footer {text-align: center;
 font-size: 5vw;}
+
+/* use this throughout */
 
 #title {border: solid;
     border-width: 5px;
