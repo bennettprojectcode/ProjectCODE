@@ -1,0 +1,101 @@
+body {background-color: #ACB0BD;
+font-family: pridi;/*  pridi is not cool, change it */}
+
+#major {text-align: center;
+position: relative;}
+
+#major:hover #button {display: inline;}
+
+#image {width: 50%;
+height: auto;}
+
+#button {display: none; 
+}
+
+
+#tour {width: 10%;
+height: auto;
+position: absolute;
+display: inline-block;
+top: 50%;
+right: 59%;
+font-size: 3vw;}
+
+#favorite {width: 15%;
+	height: auto;
+position: absolute;
+display: inline-block;
+top: 31%;
+right: 40%;
+font-size: 3vw;
+}
+
+#footer {text-align: center;
+font-size: 5vw;}
+
+#title {border: solid;
+    border-width: 5px;
+width:95%;
+height:auto;
+text-align: center;
+font-size: 150%;
+margin: auto;
+color: red;}
+
+.moretaco {border: solid;
+    border-width: 5px;
+width:95%;
+height:auto;
+text-align: center;
+margin: auto;}
+
+#tacophoto {
+text-align: center;
+margin-bottom: 2%}
+
+#taco2 {width:50%;
+height: auto;
+margin: auto;
+text-align: center;}
+
+#blank-space {
+width:100%;
+height:20%;
+display: block;
+border: dashed;} 
+
+#go-home {display: inline;
+border: solid;
+border-width: 5px;
+margin: 40px 0px 0px 20px;}
+
+#go-best {display: inline-block;
+border: solid;
+border-width: 5px;}
+
+#question-mark {display: inline-block;
+height: auto;
+width: 20%;
+text-align: left;}
+
+#can-i {display: inline-blocks;}
+
+#big-text {font-size: 120%;
+	max-width: 200px;
+margin: auto;}
+
+#tourheader {
+width:95%;
+height:auto;
+text-align: center;
+margin: auto;}
+
+#underlines {text-decoration: underline;
+}
+
+.lists {list-style-position: inside;
+margin: auto;}
+
+.top-nav {margin-right: -100px;
+	position: fixed;}
+
